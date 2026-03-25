@@ -1,10 +1,10 @@
-## 24. 04. 2026
+## 23. 04. 2026
 
 Today I finished the falstad circuit and tried to make it only light up one led at a time instead of 2(I was unable to).
 
 ### Time Spent: 2 Hours
 
-## 25. 04. 2026
+## 24. 04. 2026
 
 Today I tried to make a cooler cuircuit, but I couldn't get the transistors to trigger in a consistent way so that I could chain more than 2 for more complex operations(the goal was an adder).
 
