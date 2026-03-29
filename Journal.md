@@ -11,6 +11,7 @@ After trying many small things(an and gate on the output and using pnp transisto
 Today I tried to make a cooler cuircuit, but I couldn't get the transistors to trigger in a consistent way so that I could chain more than 2 for more complex operations(the goal was an adder).
 
 <img width="669" height="446" alt="IMG_1773" src="https://github.com/user-attachments/assets/a3a29b89-de14-4b70-a755-574242645c3e" />
+Non working xor component.
 
 After 3.5 hours of creating a lot of messy circuits in falstad that more or less didn't work I decided to give up and go back to my old circuit and tried to make it stoppable, which was way harder than I anticipated, because it needs to interupt the signal shortly to start up. I tried to add a monostable multivibrator, but it was unable to power the transistor to cut power temporarily.
 
